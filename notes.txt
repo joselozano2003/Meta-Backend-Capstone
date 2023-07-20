@@ -1,0 +1,7 @@
+Admin:
+    Username: admin
+    Password: password
+
+Test User #1:
+    Username: test1
+    Password: testing123!
